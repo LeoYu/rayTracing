@@ -1,0 +1,2 @@
+g++ rayTracing.cpp Base.cpp Vec3f.cpp SimpleObject.cpp -O2 -fopenmp -o draggon
+./draggon
